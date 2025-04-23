@@ -6,9 +6,11 @@ Jalankan perintah berikut untuk install semua library yang dibutuhkan:
 ```bash
 pip install streamlit
 pip install -r requirements.txt
+```
 
 ## Penggunaan
 Masuk ke direktori (lokal)
 ```bash
 cd bike-sharing/dashboard/
 streamlit run dashboard.py
+```
