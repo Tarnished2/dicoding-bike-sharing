@@ -11,6 +11,6 @@ pip install -r requirements.txt
 ## Penggunaan
 Masuk ke direktori (lokal)
 ```bash
-cd bike-sharing/dashboard/
+cd submission/dashboard/
 streamlit run dashboard.py
 ```
