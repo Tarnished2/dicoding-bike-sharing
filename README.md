@@ -3,10 +3,12 @@ Project ini merupakan dashboard interaktif sederhana untuk menganalisis data pen
 
 ## Install Dependencies
 Jalankan perintah berikut untuk install semua library yang dibutuhkan:
-`pip install streamlit
-pip install -r requirements.txt`
+```bash
+pip install streamlit
+pip install -r requirements.txt
 
 ## Penggunaan
 Masuk ke direktori (lokal)
-`cd bike-sharing/dashboard/
-streamlit run dashboard.py`
+```bash
+cd bike-sharing/dashboard/
+streamlit run dashboard.py
